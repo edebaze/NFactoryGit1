@@ -15,9 +15,14 @@
   4. élément **gras**
   5. élément *italique*
   
-  -----
-  ----
   ---
   (ligne horizontale)
   
+  ---html
+  <html>
+  </html>
+  ---
+  
+  |Prenom||Nom|
+  |Etienne||debaze|
   

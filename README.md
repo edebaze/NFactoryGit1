@@ -15,6 +15,8 @@
   4. élément **gras**
   5. élément *italique*
   
+  -----
+  ----
   ---
   (ligne horizontale)
   
